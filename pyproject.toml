@@ -22,10 +22,10 @@ classifiers = [
 packages = [{ include = "xontrib" }]
 
 [tool.poetry.urls]
-Homepage       	= "https://github.com/dyuri/xontrib-zoxide"
-Documentation  	= "https://github.com/dyuri/xontrib-zoxide/blob/master/README.md"
-Code           	= "https://github.com/dyuri/xontrib-zoxide"
-"Issue tracker"	= "https://github.com/dyuri/xontrib-zoxide/issues"
+Homepage       	= "https://github.com/dedguy21/xontrib-zoxide"
+Documentation  	= "https://github.com/dedguy21/xontrib-zoxide/blob/master/README.md"
+Code           	= "https://github.com/dedguy21/xontrib-zoxide"
+"Issue tracker"	= "https://github.com/dedguy21/xontrib-zoxide/issues"
 
 [tool.poetry.dependencies]
 python	= ">=3.7"
