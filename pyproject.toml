@@ -5,7 +5,7 @@ description	= "Zoxide integration for xonsh"
 authors    	= ["Gyuri Horak <dyuri@horak.hu>"]
 license    	= "MIT"
 readme     	= "README.md"
-repository 	= "https://github.com/dyuri/xontrib-zoxide"
+repository 	= "https://github.com/dedguy21/xontrib-zoxide"
 keywords   	= ['xontrib', 'xonsh']
 
 classifiers = [
